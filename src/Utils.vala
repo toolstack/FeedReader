@@ -931,4 +931,6 @@ public class FeedReader.Utils : GLib.Object {
 		Logger.debug(@"getRelevantArticles: $count");
 		return count;
 	}
+
+
 }
